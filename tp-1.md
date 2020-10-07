@@ -3,7 +3,7 @@
 
 Dans le code suivant:
   - Faites-en sorte que la taille du texte des liens soit de 12px.
-  - Le texte des paragraphes balises p et strong devra quant à lui faire 16px.
+  - Le texte des balises p et strong devra quant à lui faire 16px.
 ```html
 <p>Le contenu de <a href="#"> notre paragraphe</a>: Voici le contenu de notre paragraphe 
     <a href="#">avec une ancre contenant<strong> une forte emphase de texte</strong></a>. 
