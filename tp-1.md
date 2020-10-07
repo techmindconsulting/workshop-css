@@ -1,7 +1,7 @@
 ## TP 1 : CSS
 ### Exercice 1 : Modifier la taille de la police
 
-Dans le code suivant:
+Dans le code suivant :
   - Faites-en sorte que la taille du texte des liens soit de 12px.
   - Le texte des balises p et strong devra quant à lui faire 16px.
 ```html
@@ -12,7 +12,7 @@ Dans le code suivant:
 ```
 ### Exercice 2 : Sélectionner les descendants 
 
-Dans le code suivant:
+Dans le code suivant :
    - Réduiser la taille du texte du lien contenu dans la balise div à 75% de sa taille héritée.
    - Augmenter celle du lien contenu dans la seconde balise p à 150% de sa taille originale.
 ```html
@@ -24,7 +24,7 @@ Dans le code suivant:
 
 ### Exercice 3 : Sélectionner des classes
 
-Dans le code suivant:
+Dans le code suivant :
    - Appliquez un texte gras aux classes important. Si la classe est appliquée à un lien, mettez le en italique.
 ```html
 <h1>Mon titre</h1>
@@ -39,7 +39,7 @@ Dans le code suivant:
 
 ### Exercice 4 : Sélectionner des identifiants
 
-Dans le code suivant:
+Dans le code suivant :
    - Faites en sorte que les paragraphes contenus dans la balise div qui possède l'id contenu soit en gras.
    - Mettez le paragraphe qui possède l'id important en italique et en gras.
 ```html
