@@ -1,2 +1,2 @@
 # workshop-css
-Exercice
+[TP 1] (tp-1-css.md)
