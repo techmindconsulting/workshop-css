@@ -1,2 +1,2 @@
 # workshop-css
-[tp-1.md] (TP 1)
+[TP-1](tp-1.md)
