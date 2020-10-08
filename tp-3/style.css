@@ -10,23 +10,17 @@ body {
 }
 
 h1 {
-    font-size: 3rem;
-    letter-spacing: 1em;
-    color: white;
-    border: 1px solid black;
-    letter-spacing: 1.6rem;
-
     position: absolute;
     top: 40%;
     left: 50%;
-    white-space: nowrap; /*les passages à la ligne automatique sont supprimés lorsqu'on retrecie l'écran*/
-    transform: translate(-50%, -100%);
+    white-space: nowrap; /*les passages à la ligne automatiques sont supprimés lorqu'on retrecie l'écran*/
+    transform: translate(-50%, -100%); /* Permet de déplacer un élément sur le plan représenté par le document grâce à un vecteur */
 }
 
 h2  {
     position: absolute;
     top: 46%;
     left:50%;
-    white-space: nowrap; /*les passages à la ligne automatique sont supprimés lorsqu'on retrecie l'écran*/
-    transform: translate(-50%, -50%);
+    white-space: nowrap; /*les passages à la ligne automatiques sont supprimés lorqu'on retrecie l'écran*/
+    transform: translate(-50%, -50%); /* Permet de déplacer un élément sur le plan représenté par le document grâce à un vecteur */
 }
