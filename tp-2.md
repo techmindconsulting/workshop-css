@@ -82,7 +82,11 @@ a:hover {
 Dans cet exercice
 - Positionner les différents blocs div à l'aide de top et left de telle sorte qu'il forme la figure suivante. Les blocs font 200 pixels de largeur avec 2 pixels de bodure et 0.5em de padding
 
+![blocs de 200 pixels](https://github.com/techmindconsulting/workshop-css/blob/main/tp-2-exo-4-img-1.jpg)
+
 - Grace à un z-index, placez le bloc de l'id div1 au dessus des autres. Vous devriez obtenir ceci
+
+![blocs de 200 pixels](https://github.com/techmindconsulting/workshop-css/blob/main/tp-2-exo-4-img-2.jpg)
 
 ```html
   <div id="div1">Bloc 1</div>
