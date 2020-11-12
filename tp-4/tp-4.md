@@ -21,7 +21,7 @@ Voici quelques indications :
 
 - Police de caractère: Raleway ou Lato et sans-serif
 
-![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/implem/tp-4/tp-4-pricing-list.jpg)
+![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp-4-pricing-list.jpg)
 
 
 ### Exercice 3 : Reproduire le tableau
@@ -29,7 +29,7 @@ Voici quelques indications :
 Dans cet exercice, vous devez reproduire à l'identique le screen fourni en pièce jointe. 
 
 
-![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/implem/tp-4/tp-4-planet-list.jpg)
+![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp-4-planet-list.jpg)
 
 Voici quelques indications : 
 - Code couleur: 
