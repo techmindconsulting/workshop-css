@@ -29,7 +29,7 @@ Voici quelques indications :
 Dans cet exercice, vous devez reproduire à l'identique le screen fourni en pièce jointe. 
 
 
-![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp-4-planet-list.jpg)
+![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp-4-planet-table.jpg)
 
 Voici quelques indications : 
 - Code couleur: 
