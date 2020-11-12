@@ -7,39 +7,6 @@ Dans l'exemple suivant, modifiez le rendu des listes afin d'obtenir le résultat
 - Les puces sont à l'intérieur de la boite principale
 - Les puces de la liste de second niveau sont carées
 
-### Exercice 2 : Modifier le tableau
-```
-<table>
-  <caption> Planetary Fact Sheet - Metric </caption>
-		<tr>
-			<th></th>
-			<th> Mercure </th>
-			<th> Venus</th>
-			<th> Earth </th>
-      <th> Moon </th>
-		</tr>
-		<tr>
-			<th>Mass </th>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<th>Diameter </th>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-		<tr>
-			<th>Density </th>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-    <tr>
-			<th>Gravity </th>
-			<td> </td>
-			<td> </td>
-			<td> </td>
-		</tr>
-</table>
+### Exercice 2 : Reproduire la liste des différents prix proposés
+
+### Exercice 3 : Reproduire le tableau
