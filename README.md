@@ -1,7 +1,7 @@
 # workshop-css
 
 #### Pré-requis :
-Tous vos TP doivent être dans le repertoire workshop comme ceci : **C:/workspace/workshop-html/** : 
+Tous vos TP doivent être dans le repertoire workshop comme ceci : **C:/workspace/workshop-css/** : 
 
 
 [TP-1](tp-1.md)
