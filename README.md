@@ -1,4 +1,8 @@
 # workshop-css
+
+Pré requis : Tous vos TP doivent être dans le repertoire workshop comme ceci : C:/workspace/workshop-html/ :
+
+
 [TP-1](tp-1.md)
 
 [TP-2](tp-2.md)
