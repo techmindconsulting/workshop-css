@@ -2,7 +2,7 @@
 
 ### Exercice
 
-Reproduire à l'identique la maquette suivante en utilisant le module CSS flexbox: 
+Reproduire à l'identique la maquette faite sur "https://wireframe.cc" suivante en utilisant le module CSS flexbox: 
 
 ![Maquette à reproduire](flexbox.jpg)
 
