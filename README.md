@@ -8,7 +8,7 @@ Tous vos TP doivent être dans le repertoire workshop comme ceci : **C:/workspac
 
 [TP-2](tp-2.md) -  Dimension et espacement
 
-[TP-3](tp-3/tp-3.md) - Dimension et espacement
+[TP-3](tp-3/tp-3.md) - Image et forme
 
 [TP-4](tp-4/tp-4.md) - Liste et tableaux
 
