@@ -6,9 +6,20 @@
     box-sizing: border-box;
 }
 
+:root {
+    --background: #F0EDED;
+    --background-title: #E4E4E4;
+    --background-price: #F6F6F6;
+    --green: #2ECC71;
+    --light-grey: #A7A7A7;
+    --grey: #A9A9A9;
+    --white: #ffffff;
+    --black: #000000;
+}
+
 html {
     font-family: 'Raleway', sans-serif;
-    background-color: #F1EDEC;
+    background-color: var(--background);
 }
 
 h1 {
@@ -22,8 +33,8 @@ a.btn-signup {
     text-decoration: none;
     width: 140px;
     height: 60px;
-    border: 1px solid #3DC568;
-    color: #3DC568;
+    border: 1px solid var(--green);
+    color: var(--green);
     border-radius: 40px;
     text-align: center;
     line-height: 3.75rem;
@@ -33,8 +44,8 @@ a.btn-signup {
 }
 
 a.btn-signup:hover {
-    background-color: #2DCC70;
-    color: white;
+    background-color: var(--green);
+    color: var(--white);
 }
 
 .products {
@@ -51,7 +62,7 @@ a.btn-signup:hover {
 }
 
 .product .product-detail {
-    background-color: #F6F6F6;
+    background-color: var(--background-price);
 }
 
 .product h2{
@@ -59,7 +70,7 @@ a.btn-signup:hover {
     width: 100%;
     height: 100px;
     text-transform: uppercase;
-    background-color: #E4E4E4;
+    background-color: var(--background-title);
     letter-spacing: 2px;
     font-size: 1.5rem;
     clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
@@ -84,7 +95,7 @@ a.btn-signup:hover {
 }
 
 .product .product-content {
-    background-color: white;
+    background-color: var(--white);
 }
 
 .product .product-content .product-description {
@@ -94,16 +105,16 @@ a.btn-signup:hover {
 
 .product .product-content li {
     list-style-type: none;
-    color: grey;
+    color: var(--grey);
     padding: 20px 0;
 }
 
 .product .product-content li .data {
-    color: black;
+    color: var(--black);
     font-weight: bolder;
 }
 
 .product:nth-child(2) h2, .product:nth-child(2) a.btn-signup {
-    background-color: #2DCC70;
-    color: white;
+    background-color:var(--green);
+    color: var(--white);
 }
