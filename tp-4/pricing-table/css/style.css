@@ -1,0 +1,110 @@
+*, 
+::before, 
+::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Raleway', sans-serif;
+    background-color: #F1EDEC;
+}
+
+h1 {
+    margin: 3rem  0;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.products {
+    margin: 0 auto;
+    width: 70%;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.products .product {
+    width: 30%;
+    min-width: 300px;
+}
+
+.product .product-detail {
+    background-color: #F6F6F6;
+}
+
+.product h2{
+    display: table;
+    width: 100%;
+    height: 100px;
+    text-transform: uppercase;
+    background-color: #E4E4E4;
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 0 100%);
+}
+
+.product h2 span {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.product .product-price {
+   height: 100px;
+   font-family: 'Lato', sans-serif;
+   font-size: 3.5rem;
+   letter-spacing: 0.2rem;
+}
+
+.product .product-price .price-info {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+}
+
+.product .product-content {
+    list-style-type: none;
+    background-color: white;
+}
+
+.product .product-content .product-description {
+    list-style-type: none;
+    font-weight: bolder;
+}
+
+.product .product-content li {
+    list-style-type: none;
+    color: grey;
+    padding: 30px 0;
+}
+
+.product .product-content li .data {
+    color: black;
+    font-weight: bolder;
+}
+
+.product .product-content a.btn-signup {
+    display: inline-block;
+    text-decoration: none;
+    width: 140px;
+    height: 60px;
+    border: 1px solid #3DC568;
+    color: #3DC568;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 3.75rem;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    transition: 0.5s;
+}
+
+.product .btn-signup:hover {
+    background-color: #2DCC70;
+    color: white;
+}
+
+.product:nth-child(2) h2, .product:nth-child(2) a.btn-signup {
+    background-color: #2DCC70;
+    color: white;
+}
