@@ -17,6 +17,26 @@ h1 {
     text-align: center;
 }
 
+a.btn-signup {
+    display: inline-block;
+    text-decoration: none;
+    width: 140px;
+    height: 60px;
+    border: 1px solid #3DC568;
+    color: #3DC568;
+    border-radius: 40px;
+    text-align: center;
+    line-height: 3.75rem;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    transition: 0.5s;
+}
+
+a.btn-signup:hover {
+    background-color: #2DCC70;
+    color: white;
+}
+
 .products {
     margin: 0 auto;
     width: 70%;
@@ -64,13 +84,12 @@ h1 {
 }
 
 .product .product-content {
-    list-style-type: none;
     background-color: white;
 }
 
 .product .product-content .product-description {
     list-style-type: none;
-    font-weight: bolder;
+    font-weight: 500;
 }
 
 .product .product-content li {
@@ -82,26 +101,6 @@ h1 {
 .product .product-content li .data {
     color: black;
     font-weight: bolder;
-}
-
-.product .product-content a.btn-signup {
-    display: inline-block;
-    text-decoration: none;
-    width: 140px;
-    height: 60px;
-    border: 1px solid #3DC568;
-    color: #3DC568;
-    border-radius: 40px;
-    text-align: center;
-    line-height: 3.75rem;
-    font-weight: bolder;
-    margin-bottom: 30px;
-    transition: 0.5s;
-}
-
-.product .btn-signup:hover {
-    background-color: #2DCC70;
-    color: white;
 }
 
 .product:nth-child(2) h2, .product:nth-child(2) a.btn-signup {
