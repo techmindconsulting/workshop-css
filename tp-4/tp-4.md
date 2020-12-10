@@ -18,6 +18,10 @@ Voici quelques indications :
     - Background Titre au survol (vert) : #2ECC71 
     - Bouton (vert) : #2ECC71 
     - Couleur texte des caractéristique tecnhique (gris clair) : #A7A7A7
+    - Blanc : #ffffff
+    - Noir: #000000
+    - Gris: #A9A9A9
+    - Gris clair: #A7A7A7
 
 - Police de caractère: Raleway ou Lato et sans-serif
 
