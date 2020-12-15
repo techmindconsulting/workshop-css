@@ -1,4 +1,8 @@
-## TP 1 : CSS
+## TP 1 : CSS 
+
+Merci de vous créer un compte https://jsbin.com pour faire les exercices suivants et sauvegarder votre travail avant de l'envoyer.
+
+
 ### Exercice 1 : Modifier la taille de la police
 
 Dans le code suivant :
