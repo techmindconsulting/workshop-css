@@ -8,4 +8,4 @@ Voici quelques indices :
 - L'élément qui à une image de fond doit faire en hauteur 95% de la fenetre. 
 - Définissez votre dégradé à l'aide du site https://cssgradient.io/
 
-![Example](https://github.com/techmindconsulting/workshop-css/blob/implem/tp-3/images/demo.jpg)
+![Example](images/demo.jpg)
