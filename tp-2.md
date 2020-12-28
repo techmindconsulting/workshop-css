@@ -8,7 +8,7 @@ Dans cet exercice, vous constaterez qu'une simple régle rendra votre mise ne pa
 
 ```css
 html, body {
-    padding: 0,
+    padding: 0;
     margin: 0;
     width: 100%;
     height: 100%;
