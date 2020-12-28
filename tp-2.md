@@ -37,6 +37,10 @@ div div {
     </div>
   </div>
 ```
+
+Correction : https://jsbin.com/jixolax/
+
+
 ### Exercice 2 : Créer un menu verticale
 Vous allez utiliser une liste afin de créer un menu de navigation. 
 - Il faudra que les ancres <a> occupent l'intégralité de l'item qui les contient, afin que la zone "cliquable" ne se limite pas au texte. 
@@ -74,9 +78,13 @@ a:hover {
     <li><a>Espace client</a></li>
   </ul>
 ```
+Correction :https://jsbin.com/royitin/
+
 
 ### Exercice 3 : Créer un menu horizontale
 - Reprenez l'exercice précédent afin de faire un menu horizontale
+
+Correction : https://jsbin.com/takadag/
 
 ### Exercice 4 : Positionnez des boîtes
 Dans cet exercice
@@ -116,3 +124,4 @@ div {
 }
 ```
 
+Correction : https://jsbin.com/dovaqib/
