@@ -11,4 +11,7 @@ Voici quelques indices :
 - L'élément qui à une image de fond doit faire en hauteur 95% de la fenetre. 
 - Définissez votre dégradé à l'aide du site https://cssgradient.io/
 
+- Le document HTML doit être valide W3C : https://validator.w3.org/
+- Le CSS doit être valide W3C : https://jigsaw.w3.org/css-validator/
+
 ![Example](images/demo.jpg)
