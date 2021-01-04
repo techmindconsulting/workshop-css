@@ -2,8 +2,8 @@
 ### Exercice 
 Dans cet exercice, vous devez reproduire à l'identique (taille, couleur, bordures, marges) la page fourni en pièce jointe. 
 
-Vous êtes libres de choisir la police soit en la téléchargeant : 
- *  en la téléchargeant => https://developer.mozilla.org/fr/docs/Web/CSS/@font-face
+Vous êtes libres de choisir la police soit : 
+ * en la téléchargeant sur votre projet => https://developer.mozilla.org/fr/docs/Web/CSS/@font-face
  * en faisant un import => https://fonts.google.com
  
 Voici quelques indices : 
