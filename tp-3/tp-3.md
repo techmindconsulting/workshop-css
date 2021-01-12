@@ -13,5 +13,6 @@ Voici quelques indices :
 
 - Le document HTML doit être valide W3C : https://validator.w3.org/
 - Le CSS doit être valide W3C : https://jigsaw.w3.org/css-validator/
+- Pour obtenir votre parraléllogramme, utiliser le site : https://bennettfeely.com/clippy/
 
 ![Example](images/demo.jpg)
