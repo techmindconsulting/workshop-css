@@ -9,18 +9,21 @@ Dans cet exercice, vous devez reproduire à l'identique le formulaire de contact
 Voici quelques indications :
 
 - Couleurs: 
-Utiliser le site https://imagecolorpicker.com/en afin d'extraire les couleurs de la maquette.
+
+    - Utiliser le site https://imagecolorpicker.com/en afin d'extraire les couleurs de la maquette.
 
 - Icones:
 
-Utiliser la librairie font-awesome pour les icones.
+    - Utiliser la librairie font-awesome pour les icones.
 https://fontawesome.com
 
 
 - Envoi:
 
-Utiliser un service d'envoi de données de formulaire: https://formspree.io/
+    - Utiliser un service d'envoi de données de formulaire: https://formspree.io/
 
-Le code doit être valide W3C aussi bien au niveau du HTML que CSS.
+- Validation W3C:
+
+    - Le code doit être valide W3C aussi bien au niveau du HTML que CSS.
 
 
