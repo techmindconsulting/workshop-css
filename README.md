@@ -10,7 +10,7 @@ Tous vos TP doivent être dans le repertoire workshop comme ceci : **C:/workspac
 
 [TP-3](tp-3/tp-3.md) - Image et forme
 
-[TP-4](tp-4/tp-4.md) - Liste et tableaux
+[TP-4](tp-4/tp-4.md) - Profile, Grille tarifaire et tableaux d'information des planêtes
 
 [TP-5](tp-5/tp-5.md) - Structurer un site avec flexbox
 
