@@ -22,7 +22,7 @@ Voici quelques indications :
 
 ![Maquette à reproduire](tp4-profile.jpg)
 
-![Correction](https://techmindconsulting.github.io/workshop-css/tp-4/)
+Correction : https://techmindconsulting.github.io/workshop-css/tp-4/
 
 ### Exercice 2 : Reproduire la liste des différents prix proposés
 
@@ -43,7 +43,7 @@ Voici quelques indications :
 
 ![Maquette à reproduire](tp-4-pricing-list.jpg)
 
-![Correction](https://techmindconsulting.github.io/workshop-css/tp-4/)
+Correction : https://techmindconsulting.github.io/workshop-css/tp-4/
 
 ### Exercice 3 : Reproduire le tableau
 
@@ -52,7 +52,7 @@ Dans cet exercice, vous devez reproduire à l'identique le screen fourni en piè
 
 ![Maquette à reproduire](tp-4-planet-table.jpg)
 
-![Correction](https://techmindconsulting.github.io/workshop-css/tp-4/)
+Correction : https://techmindconsulting.github.io/workshop-css/tp-4/
 
 Voici quelques indications : 
 - Code couleur: 
