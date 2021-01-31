@@ -213,11 +213,16 @@ div.profil-social-network:last-child .logo {
 }
 
 @media screen and (max-width: 450px) {
+
+    hr {
+        margin: 10px auto;
+    }
+
     .profil-card {
         width: initial;
         height: inherit;
         margin: 0;
         border-radius: 0;
-        height: 95vh;
+        height: 85vh;
     }
 }
