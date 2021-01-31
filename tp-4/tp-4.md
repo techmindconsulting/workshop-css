@@ -20,7 +20,7 @@ Voici quelques indications :
     - Javascript developer : #7C8097
     - Lorem.... : #080911
 
-![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp4-profile.jpg)
+![Maquette à reproduire](tp4-profile.jpg)
 
 ### Exercice 2 : Reproduire la liste des différents prix proposés
 
@@ -39,7 +39,7 @@ Voici quelques indications :
 
 - Police de caractère: Raleway ou Lato et sans-serif
 
-![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp-4-pricing-list.jpg)
+![Maquette à reproduire](tp-4-pricing-list.jpg)
 
 
 ### Exercice 3 : Reproduire le tableau
@@ -47,7 +47,7 @@ Voici quelques indications :
 Dans cet exercice, vous devez reproduire à l'identique le screen fourni en pièce jointe. 
 
 
-![Maquette à reproduire](https://github.com/techmindconsulting/workshop-css/blob/main/tp-4/tp-4-planet-table.jpg)
+![Maquette à reproduire](tp-4-planet-table.jpg)
 
 Voici quelques indications : 
 - Code couleur: 
