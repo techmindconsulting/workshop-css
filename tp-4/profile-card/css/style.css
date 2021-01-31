@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@property --num {
+    syntax: "<integer>";
+    initial-value: 0;
+    inherits: false;
+}
+
+body {
+    background-color: #eeeeec;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+hr {
+    width: 80%;
+    border-top: 1px solid lightgray;
+    border-bottom: 0px;
+    margin: 30px auto;
+}
+
+.profil-card {
+    width: 25%;
+    min-width: 320px;
+    max-width: 420px;
+    margin: 30px auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+}
+
+.profil-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon i {
+    font-size: 1.3rem;
+    transition: all 0.5s ease;
+    cursor: pointer;
+}
+
+.icon i:hover {
+    transform: scale(2);
+}
+
+.icon:nth-child(1) {
+    text-align: left;
+    flex: 1 0 auto;
+}
+
+.icon:nth-child(2) {
+    text-align: right;
+    flex: 1 0 auto;
+    padding-right: 10px;
+}
+
+.profil-info {
+    padding: 10px 0;
+}
+
+.profil-info img {
+    width: 150px;
+}
+
+.profil-info .photo::after {
+    font-family: "Font Awesome 5 Free";
+    font-weight: 900;
+    content: "\f00c";
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    left: -30px;
+    background-color: #11998e;
+    color: white;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    font-size: 0.8rem;
+    line-height: 1.4;
+}
+
+.profil-info h1 {
+    font-size: 1.6rem;
+    color: #2d354a;
+    transform: translateX(-50%);
+    animation: 0.7s slideLeft ease forwards;
+    opacity: 0;
+}
+
+.profil-info h2 {
+    font-size: 1.2rem;
+    font-weight: unset;
+    color: #7c8097;
+    transform: translateX(50%);
+    animation: 0.7s slideRight ease forwards;
+    opacity: 0;
+}
+
+.profil-info p {
+    color: #080911;
+    margin: 15px 0;
+    transform: translateY(-100%);
+    animation: 0.7s slideIn ease forwards;
+}
+
+.profil-info .button-hire {
+    text-decoration: none;
+    color: white;
+    background-color: skyblue;
+    padding: 10px 50px;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    background: linear-gradient(
+        to right,
+        #11998e,
+        #38ef7d
+    );
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.profil-info .button-hire:hover {
+    transform: translateY(-7px);
+}
+
+.profil-social-networks {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0;
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    padding: 20%;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    color: white;
+    font-size: 1.8rem;
+    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.logo:hover {
+    transform: translateY(-7px);
+}
+
+div.profil-social-network:first-child .logo {
+    background: linear-gradient(to right, #11998e, #38ef7d);
+}
+
+div.profil-social-network:nth-child(2) .logo {
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+}
+
+div.profil-social-network:last-child .logo {
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+}
+.nb-followers span {
+    font-weight: 600;
+    animation: counter 2s  forwards alternate infinite ease-in-out;
+    counter-set: num var(--num);
+}
+.nb-followers span::after {
+    content: counter(num) ".8K";
+}
+
+.nb-followers small {
+    text-transform: capitalize;
+}
+
+.nb-followers small::before {
+    content: "\A";
+    white-space: pre-wrap;
+}
+
+@keyframes counter {
+    from {
+        --num: 0;
+    }
+    to {
+        --num: 12;
+    }
+}
+
+@keyframes slideLeft {
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes slideRight {
+    100% {
+        transform: translateX(0px);
+        opacity: 1;
+    }
+}
+
+@keyframes slideIn {
+    100% {
+        transform: translateY(0px);
+        opacity: 1;
+    }
+}
