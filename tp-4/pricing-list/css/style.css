@@ -41,6 +41,7 @@ a.btn-signup {
     font-weight: bolder;
     margin-bottom: 30px;
     transition: 0.5s;
+    text-transform: uppercase;
 }
 
 a.btn-signup:hover {
