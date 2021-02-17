@@ -31,6 +31,7 @@ ul {
 
 .contact {
     width: 60%;
+    min-width: 850px;
     margin: 30px auto;
     display: flex;
     flex-wrap: wrap;
@@ -122,19 +123,15 @@ input[type=submit] {
 @media screen and (max-width: 850px) {
     .contact {
         width: 100%;
+        flex-direction: column;
+        min-width: unset;
         margin: 30px auto;
         display: flex;
         flex-wrap: wrap;
-        justify-content: center;
-    }
-}
-
-@media screen and (max-width: 825px) {
-    .form-group:nth-child(1), .form-group:nth-child(2) {
-        flex-basis: 100%;
     }
 
     .contact-form {
         order: -1;;
+        width: 100%;
     }
 }
