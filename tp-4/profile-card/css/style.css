@@ -39,22 +39,22 @@ hr {
     justify-content: space-between;
 }
 
-.icon i {
+.profil-icon i {
     font-size: 1.3rem;
     transition: all 0.5s ease;
     cursor: pointer;
 }
 
-.icon i:hover {
+.profil-icon i:hover {
     transform: scale(2);
 }
 
-.icon:nth-child(1) {
+.profil-icon:nth-child(1) {
     text-align: left;
     flex: 1 0 auto;
 }
 
-.icon:nth-child(2) {
+.profil-icon:nth-child(2) {
     text-align: right;
     flex: 1 0 auto;
     padding-right: 10px;
