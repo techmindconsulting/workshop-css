@@ -9,9 +9,9 @@
 :root {
     --green: #009879;
     --light-grey: #f3f3f3;
-    --grey: #FEFEFE;
+    --grey: #fefefe;
     --dark-grey: #dddddd;
-    --white: #FFFFFF;
+    --white: #ffffff;
 }
 
 html {
@@ -19,30 +19,22 @@ html {
     background-color: var(--grey);
 }
 
-section {
-    width: 100%;
-}
-
 table {
     border-collapse: collapse;
-    table-layout: auto;
     width: 80%;
     text-align: center;
     margin: 50px auto;  
-    box-shadow: 12px 0 15px -4px rgba(153, 145, 145, 0.8), -12px 0 8px -4px rgba(153, 145, 145, 0.8);
+    box-shadow: 0 0 15px rgba(153, 145, 145, 0.8);
 }
 
 caption  {
+    background-color: var(--dark-grey);
     padding: 0.5rem;
     font-style: italic;
     font-size: 0.9rem;
     height: 40px;
     caption-side: bottom;
     border-top: 2px solid var(--green);
-    background-color: var(--dark-grey);
-    border-left: 20px solid var(--dark-grey);
-    border-right: 20px solid var(--dark-grey);
-    box-shadow: 12px 0 15px -4px rgba(153, 145, 145, 0.8), -12px 0 8px -4px rgba(153, 145, 145, 0.8);
 }
 
 thead {
@@ -50,32 +42,32 @@ thead {
     color: white;
 }
 
-thead > tr > th {
+thead th {
     text-align: left;
 }
 
-tbody > tr > th {
+tbody th {
     text-align: center;
 }
 
 tr {
     height: 40px;
+    border: 1px solid var(--dark-grey);
 }
 
 tbody tr:nth-child(even) {
     background-color: var(--light-grey);
-    border: 1px solid var(--dark-grey);
 }
 
 tbody tr:nth-child(odd) {
     background-color: var(--white);
-    border: 1px solid var(--dark-grey);
 }
+
 td {
     text-align: left;
 }
 
 .active {
     color: var(--green);
-    font-weight: bolder;
+    font-weight: bold;
 }
