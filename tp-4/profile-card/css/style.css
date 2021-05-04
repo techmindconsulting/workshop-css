@@ -56,7 +56,6 @@ hr {
 
 .profil-icon:nth-child(2) {
     text-align: right;
-    flex: 1 0 auto;
     padding-right: 10px;
 }
 
