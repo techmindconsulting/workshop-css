@@ -31,7 +31,7 @@ hr {
     border-radius: 10px;
     text-align: center;
     background-color: white;
-    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
 }
 
 .profil-icons {
@@ -89,7 +89,7 @@ hr {
     font-size: 1.6rem;
     color: #2d354a;
     transform: translateX(-50%);
-    animation: 0.7s slideLeft ease forwards;
+    animation: 0.7s slide-left ease forwards;
     opacity: 0;
 }
 
@@ -98,7 +98,7 @@ hr {
     font-weight: unset;
     color: #7c8097;
     transform: translateX(50%);
-    animation: 0.7s slideRight ease forwards;
+    animation: 0.7s slide-right ease forwards;
     opacity: 0;
 }
 
@@ -106,7 +106,7 @@ hr {
     color: #080911;
     margin: 15px 0;
     transform: translateY(-100%);
-    animation: 0.7s slideIn ease forwards;
+    animation: 0.7s slide-in ease forwards;
 }
 
 .profil-info .button-hire {
@@ -121,7 +121,7 @@ hr {
         #11998e,
         #38ef7d
     );
-    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
     display: inline-block;
 }
@@ -136,7 +136,7 @@ hr {
     margin: 25px 0;
 }
 
-.logo {
+.profil-social-network-logo {
     width: 60px;
     height: 60px;
     padding: 20%;
@@ -144,31 +144,33 @@ hr {
     margin-bottom: 10px;
     color: white;
     font-size: 1.8rem;
-    box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
     transition: all 0.3s ease;
     cursor: pointer;
 }
 
-.logo:hover {
+.profil-social-network-logo:hover {
     transform: translateY(-7px);
 }
 
-div.profil-social-network:first-child .logo {
+.profil-social-network:first-child .profil-social-network-logo {
     background: linear-gradient(to right, #11998e, #38ef7d);
 }
 
-div.profil-social-network:nth-child(2) .logo {
+.profil-social-network:nth-child(2) .profil-social-network-logo {
     background: linear-gradient(to right, #2193b0, #6dd5ed);
 }
 
-div.profil-social-network:last-child .logo {
+.profil-social-network:last-child .profil-social-network-logo {
     background: linear-gradient(to right, #ff9966, #ff5e62);
 }
+
 .nb-followers span {
     font-weight: 600;
     animation: counter 2s  forwards alternate infinite ease-in-out;
     counter-set: num var(--num);
 }
+
 .nb-followers span::after {
     content: counter(num) ".8K";
 }
@@ -191,21 +193,21 @@ div.profil-social-network:last-child .logo {
     }
 }
 
-@keyframes slideLeft {
+@keyframes slide-left {
     100% {
         transform: translateX(0px);
         opacity: 1;
     }
 }
 
-@keyframes slideRight {
+@keyframes slide-right {
     100% {
         transform: translateX(0px);
         opacity: 1;
     }
 }
 
-@keyframes slideIn {
+@keyframes slide-in {
     100% {
         transform: translateY(0px);
         opacity: 1;
@@ -224,10 +226,10 @@ div.profil-social-network:last-child .logo {
 
     .profil-card {
         width: initial;
-        height: inherit;
         margin: 0;
         border-radius: 0;
-        height: 90vh;
+        height: 100vh;
+        overflow: hidden;
     }
 
     .profil-social-networks {
