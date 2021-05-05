@@ -31,7 +31,7 @@ header, footer {
 }
 
 main {
-    flex: 4 0px;
+    flex: 4;
     height: 80vh;
     display: flex;
     flex-direction: column;
@@ -60,7 +60,7 @@ aside {
     justify-content: space-between;
     align-items: center;
     background: #DDAF94;
-    flex: 1 0px;
+    flex: 1;
 }
 
 .aside-2 ul {
