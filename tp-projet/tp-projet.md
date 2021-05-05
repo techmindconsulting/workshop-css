@@ -7,7 +7,7 @@
 Voici quelques indications :
 
 - Images: 
-     - Lien de téléchargement : [Cliquer ici](images_burger_website.zip)
+     - Lien de téléchargement : [Cliquer ici](https://github.com/techmindconsulting/workshop-css/raw/main/tp-projet/images_burger_website.zip)
  
 - Couleurs: 
 
