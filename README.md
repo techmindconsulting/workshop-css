@@ -16,4 +16,6 @@ Tous vos TP doivent être dans le repertoire workshop comme ceci : **C:/workspac
 
 [TP-6](tp-6/tp-6.md) - Formulaire et design
 
+[TP-projet] (tp-projet/tp-projet.md) - Site internet Burger
+
 
