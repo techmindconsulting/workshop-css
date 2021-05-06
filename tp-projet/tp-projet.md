@@ -1,8 +1,18 @@
 ## TP Projet HTML/CSS : Site internet burger
 ### Exercice  : Faire l'intégration HTML/CSS de la maquette suivante.
 
+## Desktop
 
 ![Maquette à reproduire](https://github.com/techmindconsulting/workshop-maquette/raw/main/maquette_restaurant.png)
+
+## Tablet
+
+<img src="tablet-website-smartphone.gif" alt="drawing" width="320"/>
+
+## Smartphone
+
+<img src="burger-website-smartphone.gif" alt="drawing" width="320"/>
+
 
 Voici quelques indications :
 
