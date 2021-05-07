@@ -34,7 +34,10 @@ Voici quelques indications :
 - Polices : 
     - Raleway 
     - Maven Pro
- 
+
+- Wording :
+      - Lien de téléchargement : [Cliquer ici](wording.txt)
+
 A inlcure dans le fichier HTML
 
 ```

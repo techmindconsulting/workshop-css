@@ -1,0 +1,48 @@
+================================
+Header banner
+================================
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut dolores ipsam corrupti 
+sunt temporibus animi quam aperiam expedita libero perspiciatis, dolore, nesciunt quaerat 
+voluptate magnam iusto placeat eveniet ipsum!
+
+================================
+About us
+================================
+Welcome foodo - Wonderful food
+
+Lorem ipsum dolor sit amet consectetur 
+adipisicing elit. Sint distinctio fugit 
+voluptatibus deleniti doloribus placeat, 
+amet quaerat voluptas eum labore 
+quisquam aut soluta, neque libero 
+dignissimos, nesciunt minus! Blanditiis, 
+dignissimos.
+
+Lorem ipsum dolor sit amet consectetur 
+adipisicing elit. Sint distinctio fugit 
+voluptatibus deleniti doloribus placeat, 
+amet quaerat voluptas eum labore 
+quisquam aut soluta, neque libero 
+dignissimos, nesciunt minus! Blanditiis, 
+dignissimos.
+
+================================
+Recommanded today
+================================
+- super supreme
+- triple crown
+- greek pizza
+- double cheese burger
+- bacon double burger
+- vegan burger
+
+
+Lorem ipsum dolor sit 
+amet consectetur 
+adipisicing elit. 
+Cupiditate, vitae, 
+placeat mollitia ipsa 
+omnis, facilis aliquid 
+cumque sapiente
+veniam earum 
+recusandae saepe!
