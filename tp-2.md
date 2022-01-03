@@ -49,15 +49,17 @@ ul {
     margin: 0;
     list-style-type: none;
     border: solid 1px #000;
-    font: 1em Impact, Arial, Helvetica, sans-serif;
+    font: 1rem Impact, Arial, Helvetica, sans-serif;
     text-transform: uppercase;
 }
+    
 li {
-    line-height: 3em;
+    line-height: 3rem;
     text-align: center;
 }
+    
 a { 
-  height: 3em;
+  height: 3rem;
   text-decoration: none;
   background-color: #eee;
   color: #555;
