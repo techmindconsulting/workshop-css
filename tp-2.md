@@ -38,8 +38,11 @@ div div {
   </div>
 ```
 ### Exercice 2 : Créer un menu verticale
+
+<img src="tp-2-exo-2-img-1.jpg" alt="demo exo tp-2">
+
 Vous allez utiliser une liste afin de créer un menu de navigation. 
-- Il faudra que les ancres <a> occupent l'intégralité de l'item qui les contient, afin que la zone "cliquable" ne se limite pas au texte. 
+- Il faudra que les ancres `<a>` occupent l'intégralité de l'item qui les contient, afin que la zone "cliquable" ne se limite pas au texte. 
 - Augmenter la taille des zones "cliquables" permettra notamment une meilleure accessibilité.
 
 ```css
@@ -78,6 +81,9 @@ a:hover {
 ```
 
 ### Exercice 3 : Créer un menu horizontale
+
+<img src="tp-2-exo-3-img-1.jpg" alt="demo exo tp-3">
+
 - Reprenez l'exercice précédent afin de faire un menu horizontale
 
 ### Exercice 4 : Positionnez des boîtes
