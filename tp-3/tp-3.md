@@ -1,6 +1,8 @@
 ## TP 3 : CSS
 ### Exercice 
-Dans cet exercice, vous devez reproduire à l'identique (taille, couleur, bordures, marges) la page fourni en pièce jointe. 
+Vous devez reproduire à l'identique (taille, couleur, bordures, marges) la page fourni en pièce jointe. 
+
+Le site doit être déployé en ligne.
 
 Vous êtes libres de choisir la police soit : 
  * en la téléchargeant sur votre projet => https://developer.mozilla.org/fr/docs/Web/CSS/@font-face
