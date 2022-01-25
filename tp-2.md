@@ -1,7 +1,10 @@
 ## TP 2 : CSS
+
+A faire sur codepen
+
 ### Exercice 1 : Dynamiser vos mises en page
 
-Dans cet exercice, vous constaterez qu'une simple régle rendra votre mise ne page dynamique (elle s'adaptera à l'interface de l'utilisateur)
+Dans cet exercice, vous constaterez qu'une simple régle rendra votre mise en page dynamique (elle s'adaptera à l'interface de l'utilisateur)
 
 - Faites en sorte que chaque diviseur occupe 80% de son conteneur. 
 - Affectez-leur ensuite des dimensisons minimales et maximales (dans notre exemple 250 et 750 pixels)
