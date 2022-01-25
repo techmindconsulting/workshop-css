@@ -16,7 +16,7 @@ Voici quelques indices :
          padding: 0;
      } 
     ```
-- Télécharger une image au hasard pour votre fond ecran sur https://www.pexels.com/fr-fr/
+- Télécharger une image en grand format au hasard pour votre fond ecran sur https://www.pexels.com/fr-fr/
 - L'élément qui à une image de fond doit faire en hauteur 95% de la fenetre. 
 - Définissez votre dégradé avec une transparence à l'aide du site https://cssgradient.io/ 
     - Sinon vous pouvez utiliser ce dégradé superposé avec votre image sur le selecteur adequat
