@@ -2,12 +2,25 @@
 
 A faire sur codepen
 
+## Remarque
+
+Faites une recherche google pour toute propriété que ne comprenez pas.
+
 ### Exercice 1 : Dynamiser vos mises en page
 
 Dans cet exercice, vous constaterez qu'une simple régle rendra votre mise en page dynamique (elle s'adaptera à l'interface de l'utilisateur)
 
 - Faites en sorte que chaque diviseur occupe 80% de son conteneur. 
-- Affectez-leur ensuite des dimensisons minimales et maximales (dans notre exemple 250 et 750 pixels)
+- Affectez-leur ensuite des dimensions minimales et maximales (dans notre exemple 250 et 750 pixels)
+
+#### Liens utiles
+
+* https://developer.mozilla.org/en-US/docs/Web/CSS/width
+* https://developer.mozilla.org/fr/docs/Web/CSS/max-width
+* https://developer.mozilla.org/fr/docs/Web/CSS/min-width
+* https://developer.mozilla.org/fr/docs/Web/CSS/height
+* https://developer.mozilla.org/fr/docs/Web/CSS/max-height
+* https://developer.mozilla.org/fr/docs/Web/CSS/min-height
 
 ```css
 html, body {
@@ -48,6 +61,16 @@ Vous allez utiliser une liste afin de créer un menu de navigation.
 - Il faudra que les ancres `<a>` occupent l'intégralité de l'item qui les contient, afin que la zone "cliquable" ne se limite pas au texte. 
 - Augmenter la taille des zones "cliquables" permettra notamment une meilleure accessibilité.
 
+#### Liens utiles
+
+* https://developer.mozilla.org/en-US/docs/Web/CSS/width
+* https://developer.mozilla.org/fr/docs/Web/CSS/max-width
+* https://developer.mozilla.org/fr/docs/Web/CSS/min-width
+* https://developer.mozilla.org/fr/docs/Web/CSS/height
+* https://developer.mozilla.org/fr/docs/Web/CSS/max-height
+* https://developer.mozilla.org/fr/docs/Web/CSS/min-height
+
+
 ```css
 ul {
     width: 150px;
@@ -70,7 +93,9 @@ a {
   background-color: #eee;
   color: #555;
 }
+
 a:hover {
+ /*  Merci de compléter */ 
 }
 ```
 
@@ -89,9 +114,18 @@ a:hover {
 
 - Reprenez l'exercice précédent afin de faire un menu horizontale
 
+#### Liens utiles
+* https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/The_box_model#le_positionnement_display_inline-block
+* https://youtu.be/j2HWn2G1R4A
+
 ### Exercice 4 : Positionnez des boîtes
 Dans cet exercice
 - Positionner les différents blocs div à l'aide de top et left de telle sorte qu'il forme la figure suivante. Les blocs font 200 pixels de largeur et de hauteur avec 2 pixels de bodure et 0.5rem de padding
+
+#### Liens utiles
+* https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Positioning#positionnement_absolu
+* https://youtu.be/CJIzLfXgtMM
+* https://youtu.be/dqoVhIxHhLU
 
 ![blocs de 200 pixels](https://github.com/techmindconsulting/workshop-css/blob/main/tp-2-exo-4-img-1.jpg)
 
