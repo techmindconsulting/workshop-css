@@ -1,8 +1,9 @@
 # workshop-css
 
 #### Pré-requis :
-Tous vos TP doivent être dans le repertoire workshop comme ceci : **C:/workspace/workshop-css/** : 
-
+Tous vos TPs doivent être dans le repertoire workshop comme ceci selon votre système d'exploitation : 
+- Windows **C:/workspace/workshop-css/** 
+- Linux **/home/[nom-utilisateur]/workspace/workshop-css**: 
 
 [TP-1](tp-1.md) - Généralités et syntaxe
 
