@@ -5,11 +5,11 @@ Vous devez reproduire à l'identique (taille, couleur, bordures, marges) la page
 Le site doit être déployé en ligne.
 
 Vous êtes libres de choisir la police soit : 
- * en utilisant l'une des polices que aimez bien utiliser (les meme que votre suite bureautique office ou autre)
+ * en utilisant la police de votre choix: https://www.w3.org/Style/Examples/007/fonts.fr.html
  
  ```
   html {
-      font-family: Arial, Helvetica, sans-serif;
+      font-family: Arial, sans-serif;
   }
  ```
  
