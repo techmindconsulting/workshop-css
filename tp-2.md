@@ -124,6 +124,7 @@ Dans cet exercice
 
 #### Liens utiles
 * https://developer.mozilla.org/fr/docs/Learn/CSS/CSS_layout/Positioning#positionnement_absolu
+* https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
 * https://youtu.be/CJIzLfXgtMM
 * https://youtu.be/dqoVhIxHhLU
 
