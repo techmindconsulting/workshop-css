@@ -24,7 +24,7 @@ Voici quelques indices :
          padding: 0;
      } 
     ```
-- Télécharger une image en grand format au format paysage pour votre fond ecran sur https://www.pexels.com/fr-fr/
+- Télécharger une image en grand format au format paysage pour votre fond ecran sur https://www.pexels.com/fr-fr/ et déposer la dans votre projet
 - L'élément qui à une image de fond doit faire en hauteur 95% de la fenetre. 
 - Définissez votre dégradé avec une transparence à l'aide du site https://cssgradient.io/ 
     - Sinon vous pouvez utiliser ce dégradé superposé avec votre image sur le selecteur adequat
@@ -42,6 +42,8 @@ Voici quelques indices :
 
 
 ## Modèle de départ CSS
+Merci d'inclure le fichier dans un fichier style.css. 
+Ce dernier devra être inclus à l'aide de la balise link HTML: https://developer.mozilla.org/fr/docs/Web/HTML/Element/link
 
 Vous pouvez partir de ce modèle
 ```css
